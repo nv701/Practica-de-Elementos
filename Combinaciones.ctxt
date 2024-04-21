@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Combinaciones
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ x
+comment2.target=boolean\ puedoGenerar(java.lang.String[],\ java.lang.String)
+comment3.params=a\ indice\ combAct\ combinaciones\ x
+comment3.target=boolean\ genComb(int[],\ int,\ java.util.List,\ java.util.List,\ java.lang.String)
+comment4.params=listaDeCadenas
+comment4.target=int[]\ convertirLista(java.lang.String[])
+numComments=5
